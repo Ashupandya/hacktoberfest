@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ASHUTOSH PANDYA](https://github.com/AshuPandya)
+ - Place: Dewas, India
+ - Bio: Student
+ - GitHub: [AshuPandya](https://github.com/AshuPandya)
